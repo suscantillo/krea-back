@@ -29,6 +29,7 @@ export default {
       // 'vi',
       // 'zh-Hans',
       // 'zh',
+      // ochenta y ocho
     ],
   },
   bootstrap(app: StrapiApp) {
